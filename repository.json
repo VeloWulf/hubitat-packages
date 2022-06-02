@@ -11,6 +11,13 @@
       "tags": [
         "Climate Control"
       ]
+    },
+    {
+      "id": "1f34c41b-9a74-4859-bd3f-4a6b6afe2914",
+      "name": "myenergi Integration",
+      "category": "Integrations",
+      "location": "https://raw.githubusercontent.com/VeloWulf/myenergiIntegration/main/packageManifest.json",
+      "description": "Integration with the myenergi line of solar control products"
     }
   ]
 }
