@@ -11,20 +11,6 @@
       "tags": [
         "Climate Control"
       ]
-    },
-    {
-      "id": "589ec702-fe22-4a85-a865-9719839cb539",
-      "name": "myenergi Integration",
-      "category": "Integrations",
-      "location": "https://raw.githubusercontent.com/VeloWulf/myenergiIntegration/main/packageManifest.json",
-      "description": "Integration with the myenergi line of solar control products"
-	  "tags": [
-		"Climate Control",
-		"Cloud",
-		"Energy Monitoring",
-		"Water Heater",
-		"Water"
-      ]
     }
   ]
 }
